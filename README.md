@@ -12,6 +12,4 @@ ___
 
 ---
 
-
-
 <h6 align="right">From Minsk with :sparkling_heart:  at iFuture</h6>
