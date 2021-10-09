@@ -16,7 +16,7 @@ ___
 <a href="https://github.com/Vasili888-QA/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vasili888-QA&theme=buefy" />
 </a>
-:atom: :octocat: :octocat: :atom:
+:atom: :octocat:
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal" />
 </a>
