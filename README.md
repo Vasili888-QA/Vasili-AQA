@@ -13,4 +13,9 @@ ___
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal" alt="Vasili888-QA" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasili888-QA&theme=vue&show_icons=true&locale=en" alt="Vasili888-QA" /></p>
+
+
+___
 <h6 align="right">From Minsk with :sparkling_heart:  at iFuture</h6>
