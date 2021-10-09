@@ -13,9 +13,13 @@ ___
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal" alt="Vasili888-QA" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasili888-QA&theme=vue&show_icons=true&locale=en" alt="Vasili888-QA" /></p>
-
+<a href="https://github.com/Vasili888-QA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vasili888-QA&theme=buefy" />
+</a>
+:atom: :octocat: :heavy_minus_sign: :octocat: :atom:
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal" />
+</a>
 
 ___
 <h6 align="right">From Minsk with :sparkling_heart:  at iFuture</h6>
