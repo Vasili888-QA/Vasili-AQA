@@ -13,12 +13,23 @@ ___
 
 ---
 
+</p>
+  <p align="center">
+    <a href="https://github.com/Vasili888-QA/Vasili888-QA/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/Vasili888-QA/Vasili888-QA?color=e7f90f" />
+    </a>
+    <a href="https://github.com/Vasili888-QA/Vasili888-QA/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Vasili888-QA/Vasili888-QA?color=1eed1e" />
+    </a>
+  </p>
+
+---
+
 <a href="https://github.com/Vasili888-QA/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vasili888-QA&theme=buefy" />
-</a>
-:atom: :octocat:
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Vasili888-QA&theme=buefy&bg_color=30,abf596,f7f685&title_color=040ec5&text_color=040ec5" />
+</a>:atom: :octocat:
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vasili888-QA&theme=vue&show_icons=true&locale=en&layout=normal&bg_color=30,f7f685,abf596&title_color=040ec5&text_color=040ec5" />
 </a>
 
 ___
