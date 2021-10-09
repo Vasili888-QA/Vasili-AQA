@@ -13,7 +13,7 @@ ___
 
 ---
 
-</p>
+
   <p align="center">
     <a href="https://github.com/Vasili888-QA/Vasili888-QA/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/Vasili888-QA/Vasili888-QA?color=e7f90f" />
