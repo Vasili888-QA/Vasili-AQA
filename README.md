@@ -10,6 +10,7 @@ ___
 | GitHub | Jenkins | Selenoid | Allure Report | Allure TestOps | Telegram | Jira |
 | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Github.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Jenkins.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Selenoid.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Allure_Report.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/AllureTestOps.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Telegram.png" width="140" height="70"> | <img src="https://github.com/Vasili888-QA/Vasili888-QA/blob/master/images/logo/Jira.png" width="140" height="70"> |
 
+
 ---
 
 <h6 align="right">From Minsk with :sparkling_heart:  at iFuture</h6>
