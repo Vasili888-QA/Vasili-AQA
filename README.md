@@ -37,11 +37,11 @@ ___
 ___
 
 <div align="center">
-<h2><img width="30" src="images/vasili_spin.gif"> Contacts </h2>
+<h1><img width="30" src="images/vasili_spin.gif"> Contacts </h1>
 
-<img align="left" src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=20&center=true&vCenter=true&lines=+Reach+Me+Out+On+Telegram!!!">
+<img align="left" src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=25&center=true&vCenter=true&lines=+Reach+Me+Out+On+Telegram!!!">
   
 [<img title="Github" alt="Vasili | Github" width="30px" src="https://github.githubassets.com/favicons/favicon.svg">](https://github.com/Vasili888-QA)
 [<img title="Telegram" alt="Vasili | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/Vasili_QA) 
-  <img align="right" src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=20&center=true&vCenter=true&lines=+Quality+Assurance+From+Minsk!!!">
+  <img align="right" src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=25&center=true&vCenter=true&lines=+Quality+Assurance+From+Minsk!!!">
 </div>
