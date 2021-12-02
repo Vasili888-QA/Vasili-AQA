@@ -4,7 +4,7 @@
 
 
 ___
-<h2 align="center">What I like to use...</h3>
+<h2 align="center"><img align="center" width="45" src="images/vasili_points.gif">What I like to use...<img align="center" width="45"  src="images/vasili_points.gif"></h2>
 
 | Java | IntelliJ IDEA | Gradle | Maven | Junit5 | Selenide | Cucumber |
 |:------:|:----:|:----:|:------:|:------:|:------:|:------:|
