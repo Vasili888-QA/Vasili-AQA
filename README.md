@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=35&center=true&vCenter=true&lines=++Vasili+QA;+Engineer+at+iFuture+++">
+</p>
 
 
 ___
@@ -34,3 +36,5 @@ ___
 
 ___
 <h6 align="right">From Minsk with :sparkling_heart:  at iFuture</h6>
+
+---
