@@ -4,7 +4,15 @@
 
 
 ___
-<h2 align="center"><img align="center" width="45" src="images/vasili_points.gif">What I like to use...<img align="center" width="45"  src="images/vasili_points.gif"></h2>
+<h2 align="center">
+  <img align="center" width="45" src="images/vasili_points.gif">
+  <img align="center" width="45" src="images/vasili_points.gif">
+  <img align="center" width="45" src="images/vasili_points.gif">
+  What I like to use...
+  <img align="center" width="45" src="images/vasili_points.gif">
+  <img align="center" width="45" src="images/vasili_points.gif">
+  <img align="center" width="45" src="images/vasili_points.gif">
+</h2>
 
 | Java | IntelliJ IDEA | Gradle | Maven | Junit5 | Selenide | Cucumber |
 |:------:|:----:|:----:|:------:|:------:|:------:|:------:|
@@ -37,7 +45,15 @@ ___
 ___
 
 <div align="center">
-<h1><img width="30" src="images/vasili_spin.gif"> Contacts </h1>
+<h1>
+  <img width="30" src="images/vasili_spin.gif">
+  <img width="30" src="images/vasili_spin.gif">
+  <img width="30" src="images/vasili_spin.gif">
+  Contacts 
+  <img width="30" src="images/vasili_spin.gif">
+  <img width="30" src="images/vasili_spin.gif">
+  <img width="30" src="images/vasili_spin.gif">
+</h1>
 
 <img align="left" src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=25&center=true&vCenter=true&lines=+Reach+Me+Out+On+Telegram!!!">
   
