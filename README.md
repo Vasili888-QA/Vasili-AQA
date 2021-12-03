@@ -1,3 +1,7 @@
+<a align="center" href="https://komarev.com/ghpvc/?username=daramirra&style=flat&color=9152C0&label=Hello%20Visitors!">
+  <img src="https://komarev.com/ghpvc/?username=Vasili888-QA&style=flat&color=9152C0&label=Hello%20Visitors!"/>
+</a>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=9152C0&font=Knewave&size=45&center=true&vCenter=true&lines=++Vasili+QA;+Engineer+at+iFuture+++">
 </p>
@@ -7,9 +11,7 @@ ___
 <h2 align="center">
   <img align="center" width="45" src="images/vasili_points.gif">
   <img align="center" width="45" src="images/vasili_points.gif">
-  <img align="center" width="45" src="images/vasili_points.gif">
   What I like to use...
-  <img align="center" width="45" src="images/vasili_points.gif">
   <img align="center" width="45" src="images/vasili_points.gif">
   <img align="center" width="45" src="images/vasili_points.gif">
 </h2>
@@ -48,9 +50,7 @@ ___
 <h1>
   <img width="30" src="images/vasili_spin.gif">
   <img width="30" src="images/vasili_spin.gif">
-  <img width="30" src="images/vasili_spin.gif">
   Contacts 
-  <img width="30" src="images/vasili_spin.gif">
   <img width="30" src="images/vasili_spin.gif">
   <img width="30" src="images/vasili_spin.gif">
 </h1>
